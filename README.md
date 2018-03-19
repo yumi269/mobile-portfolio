@@ -4,7 +4,7 @@ This example is from the Udacity <a href="https://www.udacity.com/course/ud884">
 
 ### Getting started
 
-Start by creating an account (if you haven't used Github before) and then fork of this repository by clicking on 'Fork' on the top right corner of this page).
+Start by creating an account (if you haven't used Github before) and then fork this repository by clicking on 'Fork' on the top right corner of this page).
 
 #### Objective: Optimize PageSpeed Insights score for index.html
 
