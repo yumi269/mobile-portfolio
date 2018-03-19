@@ -6,7 +6,7 @@ This example is from the Udacity <a href="https://www.udacity.com/course/ud884">
 
 Start by creating an account (if you haven't used Github before) and then fork of this repository by clicking on 'Fork' on the top right corner of this page).
 
-#### Optimize PageSpeed Insights score for index.html
+#### Objective: Optimize PageSpeed Insights score for index.html
 
 There are different ways to use Github, but we are going to keep things as simple as possible. Start by reviewing the current PageSpeed Insights score by finding the URL of your forked repository (e.g. https://github.com/benjaminmangold/mobile-portfolio/master/index.html), copy everything after the domain (e.g. /benjaminmangold/mobile-portfolio/index.html) and adding it after https://rawgit.com – so that it becomes: https://rawgit.com/benjaminmangold/mobile-portfolio/master/index.html 
 
