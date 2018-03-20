@@ -1,4 +1,4 @@
-## Website performance optimisation project
+## Website performance optimisation exercise
 
 This example is from the Udacity <a href="https://www.udacity.com/course/ud884">Critical Rendering Path</a> course and is designed to allow you to apply different optimization techniques to optimise the rendering and improve loading time performance of the pages and files.
 
